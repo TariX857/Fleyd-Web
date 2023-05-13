@@ -1,0 +1,55 @@
+                                _____ _                _   _____ ___  ____  
+                                |  ___| | ___ _   _  __| | |_   _/ _ \/ ___| 
+                                | |_  | |/ _ \ | | |/ _` |   | || | | \___ \ 
+                                |  _| | |  __/ |_| | (_| |   | || |_| |___) |
+                                |_|   |_|\___|\__, |\__,_|   |_| \___/|____/ 
+                                            |___/                          
+
+
+- Italiano
+
+1. Accettazione dei termini
+  Utilizzando il bot Discord Fleyd, l'utente accetta pienamente di rispettare i presenti termini e condizioni.
+
+2. Descrizione dei servizi offerti
+  Fleyd è un bot multifunzione per Discord che offre una vasta gamma di servizi, tra cui giochi, controllo del server, gestione dei ruoli e molto altro.
+
+3. Limitazioni di responsabilità
+  Fleyd non è responsabile per eventuali danni causati dall'utilizzo del servizio, inclusi danni diretti, indiretti, incidental, speciali o consequenziali.
+
+4. Uso corretto del servizio
+  L'utente si impegna a non utilizzare il bot Discord Fleyd per attività illegali o immorali, insieme a qualsiasi attività che violi i diritti degli altri.
+
+5. Riservatezza delle informazioni degli utenti
+  Fleyd si impegna a proteggere la privacy dei suoi utenti e a non divulgare alcuna informazione personale o sensibile.
+
+6. Modifiche ai presenti termini
+  Fleyd si riserva il diritto di modificare in qualsiasi momento i presenti termini e condizioni senza preavviso. È responsabilità dell'utente rivedere periodicamente i termini e condizioni per eventuali aggiornamenti.
+
+7. Condizioni generali
+  Qualsiasi disputa derivante dall'utilizzo del bot Discord Fleyd sarà regolata legge applicabile. L'utente accetta di rispettare la giurisdizione esclusiva dei tribunali competenti per qualsiasi controversia che possa sorgere dall'utilizzo del servizio.
+
+
+
+- English
+
+1. Acceptance of terms
+   By using the Fleyd Discord bot, you fully agree to abide by these terms and conditions.
+
+2. Description of the services offered
+   Fleyd is an all-in-one Discord bot that offers a variety of services, including gaming, server control, role management, and more.
+
+3. Limitations of Liability
+   Fleyd is not liable for any damages caused by the use of the service, including direct, indirect, incidental, special or consequential damages.
+
+4. Proper Use of the Service
+   You agree not to use Discord Fleyd bot for illegal or unethical activities, along with any activity that violates the rights of others.
+
+5. Confidentiality of User Information
+   Fleyd is committed to protecting the privacy of its users and not to disclose any personal or sensitive information.
+
+6. Changes to these terms
+   Fleyd reserves the right to change these terms and conditions at any time without notice. It is your responsibility to periodically review the terms and conditions for any updates.
+
+7. General conditions
+   Any dispute arising out of the use of the Discord Fleyd bot will be governed by applicable law. You agree to abide by the exclusive jurisdiction of the competent courts for any dispute that may arise from your use of the Service.

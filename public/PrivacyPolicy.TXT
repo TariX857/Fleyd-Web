@@ -1,0 +1,50 @@
+                                            _____ _                _  
+                                            |  ___| | ___ _   _  __| |
+                                            | |_  | |/ _ \ | | |/ _` |
+                                            |  _| | |  __/ |_| | (_| |
+                                            |_|   |_|\___|\__, |\__,_|
+                                                        |___/       
+
+                            ____       _                         ____       _ _            
+                            |  _ \ _ __(_)_   ____ _  ___ _   _  |  _ \ ___ | (_) ___ _   _ 
+                            | |_) | '__| \ \ / / _` |/ __| | | | | |_) / _ \| | |/ __| | | |
+                            |  __/| |  | |\ V / (_| | (__| |_| | |  __/ (_) | | | (__| |_| |
+                            |_|   |_|  |_| \_/ \__,_|\___|\__, | |_|   \___/|_|_|\___|\__, |
+                                                        |___/                       |___/ 
+
+
+
+At Fleyd Bot, we respect the privacy of our users and any personal information collected is used only for the purposes outlined in this policy. By using Fleyd Bot, you agree to this policy.
+
+**What Information is Collected?**
+
+When a user interacts with Fleyd Bot, we may collect the following information:
+
+- Discord User ID and Username
+- Server and Channel IDs
+- Messages sent and received in the server
+
+This information is collected solely for the purpose of providing the services of the bot and improving our services.
+
+**How is Information Used?**
+
+The information collected is used only for the following purposes:
+
+1. To provide the services offered by the bot.
+2. To improve our services and develop new features for the bot.
+3. To respond to or fulfill any inquiries from users.
+4. To ensure compliance with applicable laws and regulations.
+
+**Sharing of Information**
+
+We do not share any personal information collected from users of Fleyd Bot with third parties, except as required by law.
+
+**Security of Information**
+
+We take reasonable steps to protect the information we collect from unauthorized access, disclosure, alteration, or destruction. However, we cannot guarantee the security of any information transmitted to or from the bot.
+
+**Changes to This Policy**
+
+We may update this policy from time to time. Users will be notified of any significant changes to the policy by a notice in the bot's Discord server.
+
+*__If you have any questions or concerns about this policy, please contact us.__*

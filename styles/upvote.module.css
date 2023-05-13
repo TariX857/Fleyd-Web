@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: white;
+}
+
+.ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.li {
+    margin-bottom: 10px;
+}
+
+.vote {
+      background-color: #f613ff;
+      color: #fff;
+      padding: 10px 20px;
+      border-radius: 6px;
+      border-color: #000;
+      border:none; 
+      cursor:pointer; 
+      transition:transform 0.5s; 
+      font-size:large; 
+      display:block; 
+      margin:0 auto; 
+    }
+.vote:hover {
+      background-color: #000;
+      color: #fff;
+    }
