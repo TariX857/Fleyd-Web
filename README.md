@@ -14,7 +14,7 @@ The functionality website offers the following advantages:
 
 ## Use
 
-To use the Fleyd functionality website, just access the website [fleyd.com](https://fleyd.thundernetwork.org/).You can browse the various features using the navigation menu at the top.
+To use the Fleyd functionality website, just access the website [fleyd.com](https://thundernetwork.org/flyed). You can browse the various features using the navigation menu at the top.
 
 ## Contributions
 
