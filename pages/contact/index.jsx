@@ -6,7 +6,7 @@ export default function Contact() {
         <>
             <Head>
                 <title>Contacts</title>
-                <link rel="icon" href="https://i.ibb.co/1fZjRZC/Fleyd-arrotondato.png" />
+                <link rel="icon" href="/Fleyd-arrotondato.png" />
             </Head>
 
             <div className={styles.container}>

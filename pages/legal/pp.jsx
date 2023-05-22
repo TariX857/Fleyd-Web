@@ -8,7 +8,7 @@ export default function TermsOfService() {
     <>
       <Head>
           <title>Privacy Policy</title>
-          <link rel="icon" href="https://i.ibb.co/1fZjRZC/Fleyd-arrotondato.png" />
+          <link rel="icon" href="/Fleyd-arrotondato.png" />
       </Head>
 
         <NavBar />
